@@ -1,0 +1,35 @@
+/* CSS Document */
+*{ color:#666666;}
+.container{ background-color:#f2f2f2;}
+.top{ width:1020px; margin:0 auto; height:115px;}
+.logo{ height:68px; width:100px; background:url(../images/images/icons/images/2-1_03.png) no-repeat center; float:left; margin:26px 0;}
+.tabs{ overflow:hidden; margin-left:90px; margin-top:72px; float:left;}
+.tl1,.tl2{ float:left; margin-left:10px; width:160px; line-height:41px; text-align:center; padding-left:20px; background-color:#ffffff;}
+.tl1,.tl2{ border:1px #dddddd solid; border-bottom:none; height:43px;}
+.tl2{ background-color:#f7f6f6;}
+.tl1{ border-top:#db2e2e 4px solid;}
+.ts1{ background:url(../images/images/icons/icon_01.png) no-repeat left; display:block;}
+.ts2{ background:url(../images/images/icons/icon_02.png) no-repeat left; display:block;}
+.load{ float:right; margin-top:85px; margin-right:112px;}
+.load>span{ color:#000;}
+.load>a{ color:#396ebe;}
+.login{ height:600px; width:1020px; background-color:#ffffff; margin:0 auto; border:#dddddd 1px solid;}
+.container1{ width:700px; height:470px; margin-left:75px; overflow:hidden;}
+.phone{ margin-top:45px; float:left; margin-left:60px;}
+.space{ width:90px; float:left; line-height:36px; text-align:right;}
+.space>span{ color:#db2e2e;}
+input{ width:264px; height:34px; margin-left:15px; border:#cccccc 1px solid; float:left;}
+.num{ float:left; margin-left:15px; width:107px; border:#dddddd 1px solid; line-height:34px; text-align:center; background-color:#f4f4f4; color:#333333;}
+.mima{ float:left; margin-left:60px; margin-top:30px;}
+.check{ float:left; margin-left:60px; margin-top:30px;}
+.photo{ width:95px; height:38px; float:left; margin-left:15px;}
+.pt{ line-height:38px; text-align:center; float:left; margin-left:15px;}
+.pt>a{ color:#396ebe;}
+.icheck{ float:left; margin-left:60px; margin-top:30px;}
+.now{ float:left; margin-left:87px; margin-top:40px;}
+.now1{ float:left;}
+.now1>input{ width:5px; height:6px; margin-left:80px; margin-top:4px;}
+.now2{ float:left; line-height:19px;}
+.now2>span{ color:#000;}
+.now2>a{ color:#396ebe;}
+.register>input{ width:264px; background-color:#e64145; float:left; margin-left:168px; margin-top:35px; line-height:34px; text-align:center; color:#ffffff; cursor:pointer;}
